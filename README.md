@@ -4,4 +4,3 @@
 <p>HTML5 CSS3 BOOTSTRAP</p>
 
 <img src="/images/udemig.gif">
-git init
